@@ -1,4 +1,4 @@
-<img width="2340" height="4580" alt="BandaMusical Diagrama apriori al codigo" src="https://github.com/user-attachments/assets/5fafde44-77f7-4add-8c39-f05f6117fb7a" /># BandaMusical
+INTEGRANTES
 Sebastian Jaramillo Hernandez-20241020004
 Jhoe Luis Jeanpaul Miranda Alvarez-20241020022
 
