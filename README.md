@@ -1,5 +1,6 @@
 INTEGRANTES
-Sebastian Jaramillo Hernandez-20241020004
+Sebastian Jaramillo Hernandez-20241020002
+
 Jhoe Luis Jeanpaul Miranda Alvarez-20241020022
 
 Nota: Profe aqui subimos los 2 diagramas, el que hicimos despues de la clase dónde se planteó el ejercio y ya luego está el diagrama respecto al código final.
